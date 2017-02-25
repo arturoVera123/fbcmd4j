@@ -1,11 +1,19 @@
-# 
-FBcmd4J
+# FbCMD4j
 
-Instalacion
+Facebook CLI client. For educational purposes only.
 
-Uso
+## Instalación
 
-Creditos
+TODO: Agregar proceso de instalación.
 
+## Uso
 
-Licencia
+TODO: Agregar instrucciones de uso
+
+## Créditos
+
+TODO: Agregar autor(es)
+
+## Licencia
+
+TODO: Agregar Licencia
